@@ -13,22 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "欢迎.md",
+                "file": "FrontEnd/Vue3/Vue3 computed.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "欢迎"
+              "title": "Vue3 computed"
             }
           }
         ]
       },
       {
-        "id": "3f03ccd9da071297",
+        "id": "1f2650b99a4c0774",
         "type": "tabs",
         "children": [
           {
-            "id": "27a8fbb576a538bb",
+            "id": "9eac5677d7c23f49",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -110,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "欢迎.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "欢迎 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -129,12 +128,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "欢迎.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "欢迎 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -158,13 +156,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "欢迎.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "欢迎 的大纲"
+              "title": "大纲"
             }
           }
         ]
@@ -184,8 +181,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9728f1be3f33bafc",
+  "active": "9eac5677d7c23f49",
   "lastOpenFiles": [
-    "欢迎.md"
+    "FrontEnd/Vue3/Vue3 computed.md",
+    "欢迎.md",
+    "FrontEnd/Temporary",
+    "Temporary",
+    "FrontEnd/未命名",
+    "FrontEnd/Vue3",
+    "FrontEnd"
   ]
 }
