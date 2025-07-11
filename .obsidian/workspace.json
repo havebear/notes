@@ -22,22 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "1f2650b99a4c0774",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9eac5677d7c23f49",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -110,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "FrontEnd/Vue3/Vue3 computed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "Vue3 computed 的反向链接列表"
             }
           },
           {
@@ -128,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "FrontEnd/Vue3/Vue3 computed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "Vue3 computed 的出链列表"
             }
           },
           {
@@ -156,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "FrontEnd/Vue3/Vue3 computed.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Vue3 computed 的大纲"
             }
           }
         ]
@@ -181,14 +168,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9eac5677d7c23f49",
+  "active": "9728f1be3f33bafc",
   "lastOpenFiles": [
+    "FrontEnd/Vite/未命名.md",
     "FrontEnd/Vue3/Vue3 computed.md",
-    "欢迎.md",
-    "FrontEnd/Temporary",
-    "Temporary",
-    "FrontEnd/未命名",
-    "FrontEnd/Vue3",
-    "FrontEnd"
+    "Excerpt",
+    "Think",
+    "Tool/滴答清单.md",
+    "Tool/Cursor",
+    "AI",
+    "Tool",
+    "FrontEnd/Package/mathjs.md",
+    "FrontEnd/Package",
+    "FrontEnd/Echarts",
+    "FrontEnd/Webpack",
+    "FrontEnd/Vite",
+    "FrontEnd/React",
+    "欢迎.md"
   ]
 }
