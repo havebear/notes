@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FrontEnd/Vue3/Vue3 computed.md",
+                "file": "FrontEnd/Package/VueUse.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vue3 computed"
+              "title": "VueUse"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FrontEnd/Vue3/Vue3 computed.md",
+                "file": "FrontEnd/Package/VueUse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Vue3 computed 的反向链接列表"
+              "title": "VueUse 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FrontEnd/Vue3/Vue3 computed.md",
+                "file": "FrontEnd/Package/VueUse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Vue3 computed 的出链列表"
+              "title": "VueUse 的出链列表"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FrontEnd/Vue3/Vue3 computed.md",
+                "file": "FrontEnd/Package/VueUse.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Vue3 computed 的大纲"
+              "title": "VueUse 的大纲"
             }
           }
         ]
@@ -170,20 +170,24 @@
   },
   "active": "9728f1be3f33bafc",
   "lastOpenFiles": [
-    "FrontEnd/Vite/未命名.md",
+    "FrontEnd/Package/Vue3DraggableResizable.md",
+    "FrontEnd/Package/mathjs.md",
+    "FrontEnd/Package/VueUse.md",
+    "FrontEnd/Question/未命名.md",
+    "FrontEnd/HTML/Video Event.md",
     "FrontEnd/Vue3/Vue3 computed.md",
+    "FrontEnd/HTML",
+    "FrontEnd/Vite/未命名.md",
     "Excerpt",
     "Think",
     "Tool/滴答清单.md",
     "Tool/Cursor",
     "AI",
     "Tool",
-    "FrontEnd/Package/mathjs.md",
     "FrontEnd/Package",
     "FrontEnd/Echarts",
     "FrontEnd/Webpack",
     "FrontEnd/Vite",
-    "FrontEnd/React",
     "欢迎.md"
   ]
 }
