@@ -168,8 +168,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f8484320e41b3fa6",
+  "active": "9728f1be3f33bafc",
   "lastOpenFiles": [
+    "Think/思考.md",
+    "FrontEnd/Vue3/Vue3 computed.md",
+    "Excerpt/摘抄.md",
     "Temporary/临时.md",
     "FrontEnd/可视化/Echarts.md",
     "FrontEnd/HTML/Video Event.md",
@@ -182,10 +185,8 @@
     "FrontEnd/Temporary/未命名.md",
     "FrontEnd/Vite/未命名.md",
     "FrontEnd/Vue3/未命名.md",
-    "Excerpt/摘抄.md",
     "Tool/Cursor/未命名.md",
     "Think/未命名",
-    "FrontEnd/Vue3/Vue3 computed.md",
     "FrontEnd/HTML",
     "Excerpt",
     "Think",
