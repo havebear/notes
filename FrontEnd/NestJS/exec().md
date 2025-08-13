@@ -38,17 +38,17 @@ Model.findOne({ ... })
 
 下面给出常见 API 对照表，一眼就能判断该不该加。
 
-|API/方法|返回值类型|是否需要 `.exec()`|
-|:--|:--|:--|
-|`Model.find()`|Query|✅ 建议加|
-|`Model.findOne()`|Query|✅ 建议加|
-|`Model.findById()`|Query|✅ 建议加|
-|`Model.findOneAndUpdate()`|Query|✅ 建议加|
-|`Model.updateMany()`|Query|✅ 建议加|
-|`Model.deleteOne()`|Query|✅ 建议加|
-|`Model.aggregate()`|Aggregate|❌ 不需要（不是 Query）|
-|`Model.create()`|Document（或数组）|❌ 不能加|
-|`Model.insertMany()`|Document[]|❌ 不能加|
-|`Model.findOne().remove()`|Query|✅ 建议加|
-|`Query.populate()`|还是 Query|✅ 最终要加|
-|`Query.lean()`|还是 Query|✅ 最终要加|
+| API/方法                     | 返回值类型         | 是否需要 `.exec()`  |
+| :------------------------- | :------------ | :-------------- |
+| `Model.find()`             | Query         | ✅ 建议加           |
+| `Model.findOne()`          | Query         | ✅ 建议加           |
+| `Model.findById()`         | Query         | ✅ 建议加           |
+| `Model.findOneAndUpdate()` | Query         | ✅ 建议加           |
+| `Model.updateMany()`       | Query         | ✅ 建议加           |
+| `Model.deleteOne()`        | Query         | ✅ 建议加           |
+| `Model.aggregate()`        | Aggregate     | ❌ 不需要（不是 Query） |
+| `Model.create()`           | Document（或数组） | ❌ 不能加           |
+| `Model.insertMany()`       | Document[]    | ❌ 不能加           |
+| `Model.findOne().remove()` | Query         | ✅ 建议加           |
+| `Query.populate()`         | 还是 Query      | ✅ 最终要加          |
+| `Query.lean()`             | 还是 Query      | ✅ 最终要加          |
