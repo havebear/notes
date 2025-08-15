@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tool/Mac/初探.md",
+                "file": "FrontEnd/工程化/环境变量.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "初探"
+              "title": "环境变量"
             }
           }
         ]
@@ -170,8 +170,9 @@
   },
   "active": "1dec7595e2d3c491",
   "lastOpenFiles": [
-    "Tool/Mac/工程文件如何管理.md",
     "Tool/Mac/初探.md",
+    "FrontEnd/工程化/环境变量.md",
+    "Tool/Mac/工程文件如何管理.md",
     "Tool/未命名.md",
     "Tool/Mac",
     "FrontEnd/React Native/初探.md",
@@ -205,7 +206,6 @@
     "FrontEnd/NestJS/class-transformer.md",
     "FrontEnd/NestJS/class-validator.md",
     "FrontEnd/Vue3/双向数据绑定.md",
-    "FrontEnd/Others/Shadow DOM 是什么？.md",
     "Images/Pasted image 20250716120735.png"
   ]
 }
