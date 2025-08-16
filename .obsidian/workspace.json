@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FrontEnd/React/19/React + Vite + TypeScript.md",
+                "file": "Git/git stash与 git stash.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React + Vite + TypeScript"
+              "title": "git stash与 git stash"
             }
           }
         ]
@@ -168,8 +168,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f8484320e41b3fa6",
+  "active": "9728f1be3f33bafc",
   "lastOpenFiles": [
+    "Git/常用指令速查.md",
+    "Git/git stash与 git stash.md",
+    "FrontEnd/React/19/React + Vite + TypeScript.md",
+    "Git",
     "云/腾讯云/JS 上传文件.md",
     "云/七牛云/费用.md",
     "云/腾讯云",
@@ -198,15 +202,11 @@
     "FrontEnd/React/19/pnpm simple-git-hooks.md",
     "FrontEnd/React/19/Feature-Slice 目录.md",
     "FrontEnd/工程化/模块联邦.md",
-    "FrontEnd/React/19/React + Vite + TypeScript.md",
     "Android/安装.md",
     "Images/Pasted image 20250811214222.png",
     "Images/Pasted image 20250716120735.png",
-    "未命名",
     "Flutter",
     "Android",
-    "FrontEnd/React/19",
-    "FrontEnd/NestJS/exec().md",
-    "FrontEnd/NestJS/lean().md"
+    "FrontEnd/React/19"
   ]
 }
