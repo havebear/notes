@@ -168,8 +168,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1dec7595e2d3c491",
+  "active": "f8484320e41b3fa6",
   "lastOpenFiles": [
+    "Git/常用指令速查.md",
+    "Git/git stash与 git stash.md",
+    "Git",
     "Images/Pasted image 20250811214222.png",
     "FrontEnd/工程化/模块联邦.md",
     "FrontEnd/工程化/prettierrc.md",
@@ -202,10 +205,8 @@
     "FrontEnd/Vite/Vue 首屏渲染优化.md",
     "FrontEnd/工程化/Eslint + Prettier.md",
     "FrontEnd/工程化/rollup-plugin-visualizer.md",
-    "FrontEnd/Vue3/Vue3 computed.md",
     "FrontEnd/浏览器",
     "云/腾讯云",
-    "云/阿里云",
     "Images/Pasted image 20250716120735.png"
   ]
 }
