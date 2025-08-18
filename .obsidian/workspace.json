@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FrontEnd/工程化/环境变量.md",
+                "file": "Git/其他分支合并到 master.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "环境变量"
+              "title": "其他分支合并到 master"
             }
           }
         ]
@@ -170,8 +170,16 @@
   },
   "active": "f8484320e41b3fa6",
   "lastOpenFiles": [
-    "Git/常用指令速查.md",
+    "AI/未命名",
+    "Git/分支强制覆盖 master.md",
+    "Git/其他分支合并到 master.md",
+    "Git/pr 是什么？.md",
+    "Git/master 同步到其他分支.md",
+    "Git/git rebase 变基.md",
     "Git/git stash与 git stash.md",
+    "FrontEnd/工程化/环境变量.md",
+    "Git/git rebase 变基",
+    "Git/常用指令速查.md",
     "Git",
     "Images/Pasted image 20250811214222.png",
     "FrontEnd/工程化/模块联邦.md",
@@ -186,7 +194,6 @@
     "Android/安装.md",
     "Android",
     "Tool/Mac/初探.md",
-    "FrontEnd/工程化/环境变量.md",
     "Tool/Mac/工程文件如何管理.md",
     "Tool/未命名.md",
     "Tool/Mac",
@@ -197,16 +204,9 @@
     "FrontEnd/Taro",
     "FrontEnd/React/初探.md",
     "FrontEnd/React/未命名.md",
-    "FrontEnd/Vite/shallowRef.md",
     "AI/Cursor",
     "AI",
-    "FrontEnd/NestJS/swagger.md",
-    "README.md.md",
-    "FrontEnd/Vite/Vue 首屏渲染优化.md",
-    "FrontEnd/工程化/Eslint + Prettier.md",
-    "FrontEnd/工程化/rollup-plugin-visualizer.md",
     "FrontEnd/浏览器",
-    "云/腾讯云",
     "Images/Pasted image 20250716120735.png"
   ]
 }
